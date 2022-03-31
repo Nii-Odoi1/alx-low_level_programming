@@ -1,6 +1,6 @@
 #include "main.h"
 
-int check_path(char *S1, char *s2);
+int check_path(char *s1, char *s2);
 char *move_char(char *s2);
 
 /**
